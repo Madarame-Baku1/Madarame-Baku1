@@ -19,6 +19,7 @@ I build practical software and data tools with Python and C++. My interests incl
 | --- | --- | --- |
 | qbt-rules | [Preserve original connection errors](https://github.com/andronics/qbt-rules/pull/17) | Merged |
 | qbt-rules | [Migrate deprecated lint configuration](https://github.com/andronics/qbt-rules/pull/16) | Merged |
+| Kirari | [Highlight TypeScript enum declaration names](https://github.com/vortexkit/kirari/pull/7) | Open PR |
 | OpenChamber | [Bound terminal control-string replay](https://github.com/openchamber/openchamber/pull/5323) | Open PR |
 | Aiset | [Windows paths, Unicode filenames and import resolution](https://github.com/JamshidS/aiset/pull/42) | Open PR |
 | Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Open PR |
