@@ -2,7 +2,7 @@
 
 Python automation · data tools · open-source maintenance
 
-I use AI-assisted development to build practical tools and contribute small, reproducible fixes to open-source projects.
+Practical Python tools, data processing and reproducible fixes for open-source projects.
 
 ## What I work on
 
@@ -12,7 +12,7 @@ I use AI-assisted development to build practical tools and contribute small, rep
 
 ## How I work
 
-I keep changes focused, disclose AI assistance, and record the checks that actually ran. Each contribution should explain the problem, the fix and how to verify it.
+I keep changes focused and record the checks that actually ran. Each contribution should explain the problem, the fix and how to verify it.
 
 ## Contributions in progress
 
@@ -21,6 +21,9 @@ I keep changes focused, disclose AI assistance, and record the checks that actua
 | Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Open PR |
 | Costura | [Actionable Docker and port diagnostics](https://github.com/CosturaAI/costura/pull/26) | Open PR |
 | Costura | [Demo-status exit codes and JSON documentation](https://github.com/CosturaAI/costura/pull/27) | Open PR |
+| qbt-rules | [Preserve original connection errors](https://github.com/andronics/qbt-rules/pull/17) | Open PR |
+| qbt-rules | [Migrate deprecated lint configuration](https://github.com/andronics/qbt-rules/pull/16) | Open PR |
+| Prop Loft | [Catalog item detail pages](https://github.com/prop-loft/prop-loft/pull/11) | Open PR |
 
 ## Small tasks
 
