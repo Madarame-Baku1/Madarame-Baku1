@@ -14,7 +14,7 @@ Practical Python tools, data processing and reproducible fixes for open-source p
 
 I keep changes focused and record the checks that actually ran. Each contribution should explain the problem, the fix and how to verify it.
 
-## Contributions in progress
+## Open-source contributions
 
 | Project | Contribution | Status |
 | --- | --- | --- |
@@ -22,8 +22,8 @@ I keep changes focused and record the checks that actually ran. Each contributio
 | Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Open PR |
 | Costura | [Actionable Docker and port diagnostics](https://github.com/CosturaAI/costura/pull/26) | Open PR |
 | Costura | [Demo-status exit codes and JSON documentation](https://github.com/CosturaAI/costura/pull/27) | Open PR |
-| qbt-rules | [Preserve original connection errors](https://github.com/andronics/qbt-rules/pull/17) | Open PR |
-| qbt-rules | [Migrate deprecated lint configuration](https://github.com/andronics/qbt-rules/pull/16) | Open PR |
+| qbt-rules | [Preserve original connection errors](https://github.com/andronics/qbt-rules/pull/17) | Merged |
+| qbt-rules | [Migrate deprecated lint configuration](https://github.com/andronics/qbt-rules/pull/16) | Merged |
 | Prop Loft | [Catalog item detail pages](https://github.com/prop-loft/prop-loft/pull/11) | Open PR |
 
 ## Small tasks
