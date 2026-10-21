@@ -1,8 +1,8 @@
 # Daniel
 
-**Python · C++ · Quantitative finance · Machine learning · XGBoost**
+**Python · C++ · Quantitative finance · Systematic trading research · Machine learning · XGBoost**
 
-I build practical software and data tools with Python and C++. My interests include quantitative finance, machine learning and general software engineering. I’m open to projects in finance and other domains.
+I build practical software and data tools with Python and C++. My interests include quantitative finance, systematic trading research, machine learning and general software engineering. I’m open to projects in finance and other domains.
 
 ## Open to work
 
@@ -21,7 +21,6 @@ I build practical software and data tools with Python and C++. My interests incl
 | qbt-rules | [Migrate deprecated lint configuration](https://github.com/andronics/qbt-rules/pull/16) | Merged |
 | Kirari | [Highlight TypeScript enum declaration names](https://github.com/vortexkit/kirari/pull/7) | Open PR |
 | OpenChamber | [Bound terminal control-string replay](https://github.com/openchamber/openchamber/pull/5323) | Open PR |
-| Aiset | [Windows paths, Unicode filenames and import resolution](https://github.com/JamshidS/aiset/pull/42) | Open PR |
 | Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Open PR |
 | Costura | [Actionable Docker and port diagnostics](https://github.com/CosturaAI/costura/pull/26) | Open PR |
 | Costura | [Demo-status exit codes and JSON documentation](https://github.com/CosturaAI/costura/pull/27) | Open PR |
