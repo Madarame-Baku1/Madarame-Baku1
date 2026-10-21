@@ -14,6 +14,14 @@ I use AI-assisted development to build practical tools and contribute small, rep
 
 I keep changes focused, disclose AI assistance, and record the checks that actually ran. Each contribution should explain the problem, the fix and how to verify it.
 
+## Contributions in progress
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Draft PR |
+| Costura | [Actionable Docker and port diagnostics](https://github.com/CosturaAI/costura/pull/26) | Draft PR |
+| Costura | [Demo-status exit codes and JSON documentation](https://github.com/CosturaAI/costura/pull/27) | Draft PR |
+
 ## Small tasks
 
 Open to clearly scoped automation, data-cleaning and maintenance tasks. A useful starting point is a sample input, the expected output and an example of what currently fails.
