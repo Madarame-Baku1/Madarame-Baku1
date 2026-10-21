@@ -13,9 +13,18 @@ A personal research platform for market-data processing, strategy backtesting an
 - **Time-series evaluation:** chronological splits, walk-forward testing, out-of-sample analysis and checks for look-ahead leakage.
 - **Reproducibility:** model and dataset lineage, saved prediction audits and Python/native consistency checks.
 
-## Open to Python work
+## Open to work
 
-Open to Python development, automation, data cleaning, debugging, testing and research tooling. Happy to work on practical Python problems across other domains too.
+Open to projects across software development, automation, data, machine learning and practical tooling.
+
+- **Software development:** Python and C++ utilities, bug fixes, command-line tools and prototypes.
+- **Automation & APIs:** workflow scripts, API integrations, data collection and repetitive-task automation.
+- **Data & spreadsheets:** cleaning, validation, CSV/JSON/Excel processing, conversions and reports.
+- **Web apps & dashboards:** small websites, internal tools, interactive dashboards and working prototypes.
+- **ML & research tooling:** XGBoost workflows, feature pipelines, experiment automation and model evaluation.
+- **Testing & documentation:** regression tests, reproducible bug reports, setup guides and technical documentation.
+
+Happy to discuss small fixes, one-off tasks or larger scoped projects, including work outside finance.
 
 ## Open-source contributions
 
