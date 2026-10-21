@@ -18,6 +18,7 @@ I keep changes focused and record the checks that actually ran. Each contributio
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| Aiset | [Windows paths, Unicode filenames and import resolution](https://github.com/JamshidS/aiset/pull/42) | Open PR |
 | Costura | [Database-port regression tests](https://github.com/CosturaAI/costura/pull/25) | Open PR |
 | Costura | [Actionable Docker and port diagnostics](https://github.com/CosturaAI/costura/pull/26) | Open PR |
 | Costura | [Demo-status exit codes and JSON documentation](https://github.com/CosturaAI/costura/pull/27) | Open PR |
