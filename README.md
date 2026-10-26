@@ -2,28 +2,27 @@
 
 **Python & C++ · Quantitative Finance · Systematic Trading Research · Machine Learning · XGBoost**
 
-My main focus is Python and C++ for quantitative finance, systematic research, and machine-learning tools. I’m also open to general Python development and scoped software projects in other domains.
-
-## Open to project work
-
-- **Software development:** Python and C++ bug fixes, utilities, command-line tools, and backend features.
-- **Automation and APIs:** workflow scripts, integrations, and repetitive-task automation.
-- **Data and spreadsheets:** CSV, JSON, and Excel processing, validation, and reporting.
-- **Web apps and dashboards:** small applications, internal tools, and data views.
-- **ML and research tooling:** XGBoost workflows, data preparation, experiments, and model evaluation.
-- **Testing and documentation:** regression tests, reproducible bug reports, setup guides, and technical documentation.
+Python and C++ are my main languages, with a focus on quantitative finance, systematic trading research and machine learning. I’m also available for general Python development and scoped software projects across other domains.
 
 ## Merged contributions
 
-- [Kirari #7](https://github.com/vortexkit/kirari/pull/7) — fixed highlighting for TypeScript enum declarations.
-- [Aiset #42](https://github.com/JamshidS/aiset/pull/42) — improved cross-platform repository paths and file-import resolution.
-- [qbt-rules #17](https://github.com/andronics/qbt-rules/pull/17) — preserved original connection errors when re-raising exceptions.
-- [qbt-rules #16](https://github.com/andronics/qbt-rules/pull/16) — migrated deprecated Ruff lint settings.
+Five merged pull requests across three projects:
 
-## Open pull requests
+| Project | Accepted change |
+| --- | --- |
+| [qbt-rules #21](https://github.com/andronics/qbt-rules/pull/21) | Connected CLI validation to shared diagnostics, added meaningful failure exit codes, and handled resolved references and notification defaults. |
+| [Aiset #42](https://github.com/JamshidS/aiset/pull/42) | Corrected cross-platform repository paths, preserved Unicode and whitespace in Git filenames, and reused the import resolver for file queries. |
+| [Kirari #7](https://github.com/vortexkit/kirari/pull/7) | Fixed TypeScript enum-name highlighting, with regression coverage for related declaration types. |
+| [qbt-rules #17](https://github.com/andronics/qbt-rules/pull/17) | Preserved original connection exceptions so their causes remain available for debugging. |
+| [qbt-rules #16](https://github.com/andronics/qbt-rules/pull/16) | Migrated deprecated Ruff configuration while preserving the existing lint settings. |
 
-- [OpenChamber #5323](https://github.com/openchamber/openchamber/pull/5323) — bounded terminal control-sequence replay state.
-- [Prop Loft #11](https://github.com/prop-loft/prop-loft/pull/11) — added catalog item detail pages.
-- [Costura #26](https://github.com/CosturaAI/costura/pull/26) — improved Docker and port diagnostics.
-- [Costura #25](https://github.com/CosturaAI/costura/pull/25) — added database-port regression tests.
-- [Costura #27](https://github.com/CosturaAI/costura/pull/27) — documented demo-status exit codes and JSON output.
+## Available for project work
+
+- **Python and C++:** bug fixes, utilities, command-line tools and backend features.
+- **Automation and APIs:** workflow scripts, service integrations and repetitive-task automation.
+- **Data and spreadsheets:** CSV, JSON and Excel processing, validation and reporting.
+- **Web apps and dashboards:** small applications, internal tools and data views.
+- **ML and research tooling:** XGBoost workflows, data preparation, experiments and model evaluation.
+- **Testing and documentation:** regression tests, reproducible bug reports, setup guides and technical documentation.
+
+Available for fixed-scope projects and paid trials.
