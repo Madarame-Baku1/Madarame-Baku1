@@ -6,10 +6,11 @@ Python and C++ are my main languages, with a focus on quantitative finance, syst
 
 ## Merged contributions
 
-Seven merged pull requests across four projects:
+Eight merged pull requests across four projects:
 
 | Project | Accepted change |
 | --- | --- |
+| [Costura #27](https://github.com/CosturaAI/costura/pull/27) | Documented demo-status exit codes and JSON output. |
 | [Costura #26](https://github.com/CosturaAI/costura/pull/26) | Improved Docker and busy-port diagnostics with actionable remedies. |
 | [Costura #25](https://github.com/CosturaAI/costura/pull/25) | Added regression coverage for development database URL port checks. |
 | [qbt-rules #21](https://github.com/andronics/qbt-rules/pull/21) | Connected CLI validation to shared diagnostics, added meaningful failure exit codes, and handled resolved references and notification defaults. |
