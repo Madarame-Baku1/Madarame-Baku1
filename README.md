@@ -1,17 +1,8 @@
 # Daniel
 
-**Python · C++ · Rust | Quantitative Finance · Algorithms · Numerical Computing**
+**Python · C++ | Quantitative Finance · Algorithms · Numerical Computing**
 
-Python and C++ are my main languages, with a focus on quantitative finance, systematic trading research and machine learning. My Rust contributions cover graph algorithms, numerical methods and regression testing against independent references. I’m available for scoped software projects across these areas and general development.
-
-## Rust contributions
-
-These pull requests are submitted and awaiting maintainer review; they are not yet merged.
-
-| Project | Work |
-| --- | --- |
-| [petgraph #1071](https://github.com/petgraph/petgraph/pull/1071) | Exact integer maximum-weight matching using the primal-dual blossom algorithm: nested blossom contraction and expansion, cardinality-first optimization, sparse node indices and explicit stacks. Verified with exhaustive small graphs and an independent matching oracle. |
-| [FieldCraft #752](https://github.com/tangency-labs/fieldcraft/pull/752) | Finite-strain kinematic hardening using Lagrangian logarithmic strain, spectral derivatives and a consistent constitutive tangent. Includes cyclic loading, published simple-shear reference comparisons and tests that reject incorrect series coefficients. |
+Python and C++ are my main languages, with a focus on quantitative finance, systematic trading research and machine learning. I’m available for scoped software projects across these areas and general development.
 
 ## Merged contributions
 
