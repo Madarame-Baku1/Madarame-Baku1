@@ -20,8 +20,7 @@ Seven merged pull requests across four projects:
 
 ## Available for project work
 
-- **Python and C++:** bug fixes, utilities, command-line tools and backend features.
-- **Rust:** graph algorithms, numerical code, library features and regression tests.
+- **Python, C++ and Rust:** bug fixes, utilities, command-line tools, backend features, algorithms and numerical code.
 - **Automation and APIs:** service integrations, command-line tooling and repetitive-task automation.
 - **Data and spreadsheets:** CSV, JSON and Excel processing, validation and reporting.
 - **Web apps and dashboards:** small applications, internal tools and data views.
