@@ -6,10 +6,11 @@ Python and C++ are my main languages, with a focus on quantitative finance, syst
 
 ## Merged contributions
 
-Eight merged pull requests across four projects:
+Nine merged pull requests across five projects:
 
 | Project | Accepted change |
 | --- | --- |
+| [FieldCraft #752](https://github.com/tangency-labs/fieldcraft/pull/752) | Implemented finite-strain kinematic hardening, including logarithmic-strain stress and consistent-tangent mappings, with numerical verification. |
 | [Costura #27](https://github.com/CosturaAI/costura/pull/27) | Documented demo-status exit codes and JSON output. |
 | [Costura #26](https://github.com/CosturaAI/costura/pull/26) | Improved Docker and busy-port diagnostics with actionable remedies. |
 | [Costura #25](https://github.com/CosturaAI/costura/pull/25) | Added regression coverage for development database URL port checks. |
